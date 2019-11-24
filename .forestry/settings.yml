@@ -42,7 +42,6 @@ sections:
 - type: document
   path: src/data/menus.json
   label: Site Menus
-  read_only: false
   templates:
   - site_menus
 upload_dir: static/images
