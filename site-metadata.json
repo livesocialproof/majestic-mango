@@ -1,9 +1,9 @@
 {
-  "title": "livesocialproof",
+  "title": "livesocialproo",
   "palette": "blue",
   "header": {
-    "title": "lsp",
-    "logo_img": "images/logo.png",
+    "title": "livesocialproof",
+    "logo_img": "/images/livesocialproof logo black trans.png",
     "has_nav": true,
     "menu": {
       "actions": [
